@@ -1,8 +1,8 @@
-# Frontend
+# Table of contents
 
 ## FE/HTML
 
-* [Semantic Tag](fe-html/semantic-tag.md)
+* [Semantic Tag](README.md)
 * [전역 규칙](fe-html/undefined.md)
 
 ## CSS
@@ -12,7 +12,7 @@
 
 ## JavaScript
 
-* [변수 Variable, 상수 Constant](README.md)
+* [변수 Variable, 상수 Constant](<README (1).md>)
 * [전역 규칙](fe-javascript/undefined.md)
 
 ## React
@@ -21,22 +21,19 @@
 * [전역 상태 관리 Zustand](fe-react/zustand.md)
 * [React-hook-form](fe-react/react-hook-form.md)
 
-
-# Backend
-
 ## Java
 
-* [빌드 Tool : Maven, Gradle](be-java/tool-maven-gradle.md)
-  
+* [전역 규칙](java/undefined.md)
+* [서블릿 Servlet](java/servlet.md)
+* [톰캣 Tomcat](java/tomcat.md)
+
 ## Spring Boot
 
 * [전역 규칙](be-spring-boot/undefined.md)
-
-
-# Infra
+* [빌드 Tool : Maven, Gradle](spring-boot/tool-maven-gradle.md)
+* [JPA](spring-boot/jpa/README.md)
+  * [hibernate](spring-boot/jpa/hibernate.md)
 
 ## AWS
 
 * [AWS 란?](infra-aws/aws.md)
-
-

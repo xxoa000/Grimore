@@ -1,16 +1,15 @@
-# 변수 Variable, 상수 Constant
+# Semantic Tag
 
-var 와 let 의 차이
+header
 
-호이스팅 현상이란?
+nav
 
+main
 
+section
 
-상수 const
+article
 
+aside
 
-
-리버럴
-
-
-
+footer
