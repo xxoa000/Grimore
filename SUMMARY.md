@@ -24,11 +24,11 @@
 
 # Backend
 
-## BE/Java
+## Java
 
 * [빌드 Tool : Maven, Gradle](be-java/tool-maven-gradle.md)
   
-## BE/Spring Boot
+## Spring Boot
 
 * [전역 규칙](be-spring-boot/undefined.md)
 
