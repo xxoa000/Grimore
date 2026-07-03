@@ -2,7 +2,7 @@
 
 ## HTML
 
-* [Semantic Tag](README.md)
+* [Semantic Tag](fe-html/)
 * [전역 규칙](fe-html/undefined.md)
 
 ## CSS
@@ -12,7 +12,7 @@
 
 ## JavaScript
 
-* [변수 Variable, 상수 Constant](<README (1).md>)
+* [변수 Variable, 상수 Constant](/broken/pages/dCqgz6vjenCx4sFrYe8w)
 * [전역 규칙](fe-javascript/undefined.md)
 
 ## React
