@@ -2,7 +2,7 @@
 
 ## Java
 
-* [전역 규칙](back/java/undefined.md)
+* [전역 규칙](/broken/pages/SaHsWLw41tqQ3HbVUszq)
 * [서블릿 Servlet](back/java/servlet.md)
 * [톰캣 Tomcat](back/java/tomcat.md)
 

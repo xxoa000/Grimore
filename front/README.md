@@ -3,17 +3,17 @@
 ## HTML
 
 * [Semantic Tag](fe-html/)
-* [전역 규칙](fe-html/undefined.md)
+* [전역 규칙](/broken/pages/lJQtXhmVZWRmES5pC3BI)
 
 ## CSS
 
-* [전역 규칙](fe-css/undefined.md)
+* [전역 규칙](/broken/pages/4Ln2z4VNNPLf4U2NmcVE)
 * [SCSS](fe-css/scss.md)
 
 ## JavaScript
 
 * [변수 Variable, 상수 Constant](/broken/pages/dCqgz6vjenCx4sFrYe8w)
-* [전역 규칙](fe-javascript/undefined.md)
+* [전역 규칙](/broken/pages/hyEKXXoaOuu35PrYtpBr)
 
 ## React
 

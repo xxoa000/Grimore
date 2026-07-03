@@ -2,4 +2,4 @@
 
 ## AWS
 
-* [AWS 란?](infra-aws/aws.md)
+* [AWS 란?](/broken/pages/JNf9Jo13BcCViI1xTx5M)
