@@ -21,8 +21,7 @@
     * [var, let, const](front/javascript/var-let-const.md)
     * [object](front/javascript/object.md)
   * [Css](front/css.md)
-  * [Html](front/html/TOC.md)
-    * [Semantic Tag](front/html/semantic-tag.md)
+  * [Html](front/html.md)
 
 * [.gitbook](.gitbook/TOC.md)
   * [includes](.gitbook/includes/README.md)
