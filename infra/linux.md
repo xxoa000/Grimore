@@ -69,11 +69,16 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 
 
 
+{% hint style="info" %}
+아래는 우분투가 아니라, 기본 터미널에서 실행할 수 있는 명령어다.
+{% endhint %}
+
 * <mark style="color:red;">**`docker run -it --name`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark> : 새 컨테이너를 생성
 * <mark style="color:red;">**`docker rename`**</mark>**` `**<mark style="color:$success;">**`boring_chatterjee`**</mark>**` `**<mark style="color:$warning;">**`새컨테이너명`**</mark> : 기본 컨테이너명을 변경
 * <mark style="color:red;">**`docker ps -a`**</mark> : 생성된 컨테이너 목록 확인
 * <mark style="color:red;">**`docker start`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark> : 터미널 -> 우분투, 컨테이너 다시 시작
 * <mark style="color:red;">**`docker exec -it`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark>**` `**<mark style="color:red;">**`bash`**</mark> : 터미널 -> 우분투, 컨테이너에 다시 접속
+* <mark style="color:red;">**`docker rm`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark> : 컨테이너를 삭제
 {% endtab %}
 
 {% tab title="사용자 권한" %}
@@ -94,10 +99,10 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 
 
 
+* <mark style="color:red;">**`sudo passwd root`**</mark> : 입력 후 -> 비밀번호 두 번 입력하면 root 계정의 비밀번호가 생성됨
 * 일반 계정에서 root 권한을 얻는 방법
-  * <mark style="color:red;">**`sudo su`**</mark> :&#x20;
-  * <mark style="color:red;">**`sudo -i`**</mark> : 터미널을 root 계정으로 전환
-  * <mark style="color:red;">**`su -root 비밀번호`**</mark> :
+  * <mark style="color:red;">**`sudo su`**</mark> / <mark style="color:red;">**`sudo -i`**</mark> : 터미널을 root 계정으로 전환
+  * <mark style="color:red;">**`su`**</mark> : 입력 후 root 비밀번호를 입력하면 root 계정으로 전환됨&#x20;
 {% endtab %}
 {% endtabs %}
 
