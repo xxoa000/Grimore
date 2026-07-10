@@ -30,8 +30,9 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 {% hint style="info" %}
 맥은 SSH 를 기본 지원하기에 서버배포시에는 가상머신을 설치할 필요 없이 터미널로 바로 리눅스를 사용할 수 있었지만, 특정 서버 없이 그냥 리눅스(우분투)를 써보고 싶다면 가상머신이 필요하다.<br>
 
-* 가상머신 `Ubuntu ARM64(aarch64)`  설치 추천
-* 우분투 설치
+방법1. 가상머신 `Ubuntu ARM64(aarch64)`  설치 추천 -> 우분투 설치
+
+방법2. docker desktop 이 깔려있다면 docker 를 실행시킨 후&#x20;
 {% endhint %}
 
 
@@ -65,6 +66,12 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 {% tab title="기본 명령어" %}
 * <mark style="color:red;">**`cd ~`**</mark> : 경로 표시를 \~ 로 변경하기
 * <mark style="color:red;">**`sudo`**</mark> : 일반 사용자가 일시적으로 관리자 권한을 가질 수 있도록 허용하는 명령어&#x20;
+
+
+
+* <mark style="color:red;">**`docker rename`**</mark>**` `**<mark style="color:$success;">**`boring_chatterjee`**</mark>**` `**<mark style="color:$warning;">**`새컨테이너명`**</mark> : 컨테이너명 변경
+* <mark style="color:red;">**`docker start`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark> : 터미널 -> 우분투, 컨테이너 다시 시작
+* <mark style="color:red;">**`docker exec -it`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark>**` `**<mark style="color:red;">**`bash`**</mark> : 터미널 -> 우분투, 컨테이너에 다시 접속
 {% endtab %}
 
 {% tab title="사용자 권한" %}
@@ -91,6 +98,8 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
   * <mark style="color:red;">**`su -root 비밀번호`**</mark> :
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
