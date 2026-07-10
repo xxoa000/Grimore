@@ -69,7 +69,9 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 
 
 
-* <mark style="color:red;">**`docker rename`**</mark>**` `**<mark style="color:$success;">**`boring_chatterjee`**</mark>**` `**<mark style="color:$warning;">**`새컨테이너명`**</mark> : 컨테이너명 변경
+* <mark style="color:red;">**`docker run -it --name`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark> : 새 컨테이너를 생성
+* <mark style="color:red;">**`docker rename`**</mark>**` `**<mark style="color:$success;">**`boring_chatterjee`**</mark>**` `**<mark style="color:$warning;">**`새컨테이너명`**</mark> : 기본 컨테이너명을 변경
+* <mark style="color:red;">**`docker ps -a`**</mark> : 생성된 컨테이너 목록 확인
 * <mark style="color:red;">**`docker start`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark> : 터미널 -> 우분투, 컨테이너 다시 시작
 * <mark style="color:red;">**`docker exec -it`**</mark>**` `**<mark style="color:$warning;">**`컨테이너명`**</mark>**` `**<mark style="color:red;">**`bash`**</mark> : 터미널 -> 우분투, 컨테이너에 다시 접속
 {% endtab %}
