@@ -25,6 +25,7 @@
 * [Infra](infra/README.md)
   * [AWS](infra/infra-aws.md)
   * [Docker](infra/docker.md)
+  * [Linux](infra/linux.md)
 * [.gitbook](.gitbook/README.md)
   * [includes](.gitbook/includes/README.md)
     * [// 깔끔한 코딩에 도움되고,// F12(브라우져...](.gitbook/includes/f12-....md)
