@@ -20,7 +20,7 @@
   * [Javascript](back/fe-javascript/README.md)
     * [var, let, const](back/fe-javascript/var-let-const.md)
     * [object](back/fe-javascript/object.md)
-  * [Css](back/fe-css/README.md)
+  * [Css](back/css/README.md)
     * [SCSS](back/fe-css/scss.md)
   * [Html](back/fe-html/README.md)
     * [Semantic Tag](back/fe-html/fe-html.md)
