@@ -1,14 +1,24 @@
-# Backend
+# 웹툰 작가의 경험으로  사용자 중심 서비스를 만들어갈 개발자, 정다희 입니다.
 
-## Java
+웹툰 작가로 약 7년간 활동하며 7일 단위의 마감 일정을 소화해냈으며,
+작업을 세분화하고 우선순위를 관리하며 일정과 품질의 균형을 유지하는 책임감을 길렀습니다. 
+또한 편집자의 피드백 의도를 빠르게 파악하고 반영하여 불필요한 재수정을 줄이고 업무 효율을 높였습니다.
 
-* [전역 규칙](/broken/pages/SaHsWLw41tqQ3HbVUszq)
-* [서블릿 Servlet](back/java/servlet.md)
-* [톰캣 Tomcat](back/java/tomcat.md)
+개발자 전향을 목표로 한 후, 팀 프로젝트를 통해 React와 Spring Boot 기반의 웹 서비스를 구축하고 
+JWT를 활용한 사용자 인증 로직을 구현했습니다. 
+AWS EC2와 Docker를 활용해 서비스를 직접 배포하며 컨테이너 기반의 운영 환경을 구축했고, 
+기능 구현에 그치지 않고 개발부터 배포까지의 전 과정을 경험하며 서비스 운영에 대한 이해를 넓혔습니다.
 
-## Spring Boot
+새로운 기술을 빠르게 습득하고 실제 프로젝트에 검증하며 개선하는 것이 저의 강점입니다. 
+앞으로도 책임감 있는 일정 관리와 협업을 바탕으로 신뢰받는 개발자로 성장하겠습니다.
 
-* [전역 규칙](/broken/pages/cyIfW5zUwukhAV7h5OLP)
-* [빌드 Tool : Maven, Gradle](back/spring-boot/tool-maven-gradle.md)
-* [JPA](back/spring-boot/jpa/)
-  * [hibernate](back/spring-boot/jpa/hibernate.md)
+### [핵심역량]
+∙ 풀스택 역량 확보 및 배포 환경 구축 능력
+∙ 팀 프로젝트 기반 다양한 협업 프로세스 경험
+∙ 빠른 이해도 및 업무 프로세스 관리, 커뮤니케이션 능력
+
+### 저에 대해 더 자세히 알고싶다면?
+메뉴 추천 사이트(풀스택) * http://52.78.62.124/
+인플루언서 쇼핑몰(프론트엔드) * https://xxoa000.github.io/v-clo/
+노션 정리 * https://app.notion.com/p/2eb03280d84c809aa9e4c14dee238c7e
+이 내용을 깃북에서 보기 * https://lemon-tree-code.gitbook.io/grimore/
