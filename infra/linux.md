@@ -36,7 +36,7 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 
 
 
-
+### 우분투 명령어
 
 {% tabs %}
 {% tab title="우분투 설치" %}
@@ -63,32 +63,32 @@ description: 1991년 리누스 토르발스가 개발한 유닉스 기반의 오
 {% endtab %}
 
 {% tab title="기본 명령어" %}
-* **cd \~** : 경로 표시를 \~ 로 변경하기
-* **sudo** : 일반 사용자가 일시적으로 관리자 권한을 가질 수 있도록 허용하는 명령어&#x20;
+* <mark style="color:red;">**`cd ~`**</mark> : 경로 표시를 \~ 로 변경하기
+* <mark style="color:red;">**`sudo`**</mark> : 일반 사용자가 일시적으로 관리자 권한을 가질 수 있도록 허용하는 명령어&#x20;
 {% endtab %}
 
 {% tab title="사용자 권한" %}
 *   리눅스에서는 프롬프트 끝 문자가 사용자 권한을 나타냄
 
-    * **#** : 관리자(root) 권한 , 시스템의 모든 파일을 수정할 수 있음
-    * **$** : 일반 사용자 권한
+    * <mark style="color:red;">**`#`**</mark> : 관리자(root) 권한 , 시스템의 모든 파일을 수정할 수 있음
+    * <mark style="color:red;">**`$`**</mark> : 일반 사용자 권한
 
 
-*   **adduser 사용자명** : 새 일반 사용자 생성하기
+*   <mark style="color:red;">**`adduser 사용자명`**</mark> : 새 일반 사용자 생성하기
 
-    * **su - 사용자명** : 일반 사용자로 전환 (\~$)
-    * **groups 사용자명** : 사용자의 권한 확인하기
+    * <mark style="color:red;">**`su - 사용자명`**</mark> : 일반 사용자로 전환 (\~$)
+    * <mark style="color:red;">**`groups 사용자명`**</mark> : 사용자의 권한 확인하기
 
 
-* **exit** : 로그아웃, 관리자 권한으로 돌아감
-* **sudo usermod -aG sudo 사용자명** : 일반 사용자에게 관리자 권한 부여
+* <mark style="color:red;">**`exit`**</mark> : 로그아웃, 관리자 권한으로 돌아감
+* <mark style="color:red;">**`sudo usermod -aG sudo 사용자명`**</mark> : 일반 사용자에게 관리자 권한 부여
 
 
 
 * 일반 계정에서 root 권한을 얻는 방법
-  * sudo su :&#x20;
-  * sudo -i : 터미널을 root 계정으로 전환
-  * su -root 비밀번호:
+  * <mark style="color:red;">**`sudo su`**</mark> :&#x20;
+  * <mark style="color:red;">**`sudo -i`**</mark> : 터미널을 root 계정으로 전환
+  * <mark style="color:red;">**`su -root 비밀번호`**</mark> :
 {% endtab %}
 {% endtabs %}
 
