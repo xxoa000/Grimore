@@ -3,7 +3,7 @@
 * [Profile](README.md)
   * [Java](back/java/TOC.md)
     * [Servlet](back/java/servlet.md)
-  * [Spring-boot](back/spring-boot/TOC.md)
+  * [Spring-boot](back/spring-boot/README.md)
     * [JPA](back/spring-boot/jpa.md)
   * [C](back/c.md)
   * [Linux](infra/linux.md)
