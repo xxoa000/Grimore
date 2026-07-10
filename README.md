@@ -21,10 +21,10 @@ AWS EC2와 Docker를 활용해 서비스를 직접 배포하며 컨테이너 기
 
 
 ### 저에 대해 더 자세히 알고싶다면?
-메뉴 추천 사이트(풀스택) * http://52.78.62.124/
+메뉴 추천 사이트 (풀스택) http://52.78.62.124/
 
-인플루언서 쇼핑몰(프론트엔드) * https://xxoa000.github.io/v-clo/
+인플루언서 쇼핑몰 (프론트엔드) https://xxoa000.github.io/v-clo/
 
-노션 정리 * https://app.notion.com/p/2eb03280d84c809aa9e4c14dee238c7e
+노션 정리 https://app.notion.com/p/2eb03280d84c809aa9e4c14dee238c7e
 
-이 내용을 깃북에서 보기 * https://lemon-tree-code.gitbook.io/grimore/
+이 내용을 깃북에서 보기 https://lemon-tree-code.gitbook.io/grimore/
