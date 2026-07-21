@@ -18,6 +18,7 @@
     * [object](front/javascript/object.md)
   * [Css](front/css.md)
   * [Html](front/html.md)
+  * [Python](back/python.md)
 * [.gitbook](.gitbook/README.md)
   * [includes](.gitbook/includes/README.md)
     * [// 깔끔한 코딩에 도움되고,// F12(브라우져...](.gitbook/includes/f12-....md)
